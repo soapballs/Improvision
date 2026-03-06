@@ -1,0 +1,12 @@
+<svg width=[36m"100%"[0m" height=[36m"100%"[0m" viewBox=[36m"0 0 200 200"[0m" xmlns=[36m"http://www.w3.org/2000/svg"[0m">
+  <defs>
+    <linearGradient id=[36m"gradBlue"[0m" x1=[36m"0%"[0m" x2=[36m"100%"[0m" y1=[36m"0%"[0m" y2=[36m"100%"[0m">
+      <stop offset=[36m"0%"[0m" style=[36m"stop-color:#003d5c;stop-opacity:1"[0m"/>
+      <stop offset=[36m"100%"[0m" style=[36m"stop-color:#0099cc;stop-opacity:1"[0m"/>
+    </linearGradient>
+  </defs>
+  <circle cx=[36m"100"[0m" cy=[36m"100"[0m" r=[36m"90"[0m" fill=[36m"url(#gradBlue)"[0m"/>
+  <ellipse cx=[36m"100"[0m" cy=[36m"100"[0m" rx=[36m"50"[0m" ry=[36m"30"[0m" fill=[36m"white"[0m"/>
+  <path d=[36m"M70,100 Q100,120 130,100 Q100,80 70,100 Z"[0m" fill=[36m"#003d5c"[0m"/>
+  <path d=[36m"M90,90 C95,80 105,80 110,90 C105,100 95,100 90,90 Z"[36m" fill=[36m"#0099cc"[0m"/>
+</svg>
