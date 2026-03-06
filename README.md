@@ -1,6 +1,6 @@
 # Jazz Improvisation App
 
-## Project Vision
+## Project Goal
 
 The goal of this Flutter mobile application is to provide a comprehensive platform for teaching jazz improvisation on the alto saxophone. By integrating a language learning model, we aim to transform the learning process into an engaging and intuitive experience where:
 
