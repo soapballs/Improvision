@@ -1,0 +1,17 @@
+name: improvision
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  audioplayers: ^0.20.1
+  flutter_sound: ^8.4.1
+  flutter_bloc: ^8.0.0
+  shared_preferences: ^2.0.9
+  path_provider: ^2.0.4
+
+flutter:
+  uses-material-design: true
